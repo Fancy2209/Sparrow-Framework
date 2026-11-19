@@ -9,12 +9,12 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPContext.h"
-#import "SPFrameBuffer.h"
-#import "SPGLTexture.h"
-#import "SPOpenGL.h"
-#import "SPRectangle.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPFrameBuffer.h"
+#import "Sparrow/SPGLTexture.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPRectangle.h"
 
 @implementation SPFrameBuffer
 {

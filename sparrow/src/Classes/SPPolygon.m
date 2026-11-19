@@ -9,11 +9,11 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPIndexData.h"
-#import "SPMacros.h"
-#import "SPPoint.h"
-#import "SPPolygon.h"
-#import "SPVertexData.h"
+#import "Sparrow/SPIndexData.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPPoint.h"
+#import "Sparrow/SPPolygon.h"
+#import "Sparrow/SPVertexData.h"
 
 /// --- immutable polygon interfaces ---------------------------------------------------------------
 

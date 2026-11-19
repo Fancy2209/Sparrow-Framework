@@ -9,9 +9,9 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPMacros.h"
-#import "SPMovieClip.h"
-#import "SPSoundChannel.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPMovieClip.h"
+#import "Sparrow/SPSoundChannel.h"
 
 static SPSoundChannel *nullSound = nil;
 

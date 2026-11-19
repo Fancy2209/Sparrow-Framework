@@ -9,8 +9,8 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPColorMatrix.h"
-#import "SPMacros.h"
+#import "Sparrow/SPColorMatrix.h"
+#import "Sparrow/SPMacros.h"
 
 typedef float Matrix4x5[20];
 

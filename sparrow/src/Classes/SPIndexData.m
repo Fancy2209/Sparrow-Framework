@@ -9,8 +9,8 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPIndexData.h"
-#import "SPMacros.h"
+#import "Sparrow/SPIndexData.h"
+#import "Sparrow/SPMacros.h"
 
 @implementation SPIndexData
 {

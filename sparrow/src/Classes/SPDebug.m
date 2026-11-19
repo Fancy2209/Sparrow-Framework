@@ -9,16 +9,16 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPContext.h"
-#import "SPDebug.h"
-#import "SPFragmentFilter.h"
-#import "SPMatrix.h"
-#import "SPRectangle.h"
-#import "SPRenderSupport.h"
-#import "SPRenderTexture.h"
-#import "SPStage.h"
-#import "SPViewController.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPDebug.h"
+#import "Sparrow/SPFragmentFilter.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPRectangle.h"
+#import "Sparrow/SPRenderSupport.h"
+#import "Sparrow/SPRenderTexture.h"
+#import "Sparrow/SPStage.h"
+#import "Sparrow/SPViewController.h"
 
 @implementation SPDisplayObject (Debug)
 

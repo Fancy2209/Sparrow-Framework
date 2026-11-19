@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPRectangle.h"
+#import "Sparrow/SPRectangle.h"
 #import "SPView_Internal.h"
 #import "SPViewController_Internal.h"
 

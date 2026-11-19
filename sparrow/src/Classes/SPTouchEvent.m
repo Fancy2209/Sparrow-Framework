@@ -9,11 +9,11 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPDisplayObject.h"
-#import "SPDisplayObjectContainer.h"
+#import "Sparrow/SPDisplayObject.h"
+#import "Sparrow/SPDisplayObjectContainer.h"
 #import "SPEvent_Internal.h"
-#import "SPMacros.h"
-#import "SPTouchEvent.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPTouchEvent.h"
 
 #define ANY_PHASE ((SPTouchPhase)-1)
 #define ANY_TOUCH ((size_t)-1)

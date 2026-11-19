@@ -8,8 +8,8 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPMacros.h"
-#import "SPCache.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPCache.h"
 
 #import <libkern/OSAtomic.h>
 

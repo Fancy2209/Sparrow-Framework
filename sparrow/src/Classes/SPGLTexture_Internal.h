@@ -10,7 +10,7 @@
 //
 
 #import <Sparrow/SparrowBase.h>
-#import "SPGLTexture.h"
+#import "Sparrow/SPGLTexture.h"
 
 @interface SPGLTexture (Internal)
 

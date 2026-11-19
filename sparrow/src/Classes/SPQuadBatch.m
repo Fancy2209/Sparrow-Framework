@@ -9,21 +9,21 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPBaseEffect.h"
-#import "SPBlendMode.h"
-#import "SPContext.h"
-#import "SPDisplayObjectContainer.h"
-#import "SPImage.h"
-#import "SPMacros.h"
-#import "SPMatrix.h"
-#import "SPMatrix3D.h"
-#import "SPOpenGL.h"
-#import "SPQuadBatch.h"
-#import "SPRenderSupport.h"
-#import "SPSprite.h"
-#import "SPSprite3D.h"
-#import "SPTexture.h"
-#import "SPVertexData.h"
+#import "Sparrow/SPBaseEffect.h"
+#import "Sparrow/SPBlendMode.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPDisplayObjectContainer.h"
+#import "Sparrow/SPImage.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPMatrix3D.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPQuadBatch.h"
+#import "Sparrow/SPRenderSupport.h"
+#import "Sparrow/SPSprite.h"
+#import "Sparrow/SPSprite3D.h"
+#import "Sparrow/SPTexture.h"
+#import "Sparrow/SPVertexData.h"
 
 // --- class implementation ------------------------------------------------------------------------
 

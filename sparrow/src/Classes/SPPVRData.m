@@ -6,9 +6,9 @@
 //
 //
 
-#import "SPMacros.h"
-#import "SPPVRData.h"
-#import "SPNSExtensions.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPPVRData.h"
+#import "Sparrow/SPNSExtensions.h"
 
 // --- PVR structs & enums -------------------------------------------------------------------------
 

@@ -10,13 +10,13 @@
 //
 
 #import "SPDisplayObject_Internal.h"
-#import "SPMatrix.h"
-#import "SPMatrix3D.h"
-#import "SPPoint.h"
-#import "SPRenderSupport.h"
-#import "SPSprite3D.h"
-#import "SPStage.h"
-#import "SPPoint3D.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPMatrix3D.h"
+#import "Sparrow/SPPoint.h"
+#import "Sparrow/SPRenderSupport.h"
+#import "Sparrow/SPSprite3D.h"
+#import "Sparrow/SPStage.h"
+#import "Sparrow/SPPoint3D.h"
 
 #define E 0.00001
 

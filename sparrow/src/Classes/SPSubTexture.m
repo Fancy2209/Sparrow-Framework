@@ -9,15 +9,15 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPContext.h"
-#import "SPMacros.h"
-#import "SPMatrix.h"
-#import "SPPoint.h"
-#import "SPRectangle.h"
-#import "SPGLTexture.h"
-#import "SPSubTexture.h"
-#import "SPVertexData.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPPoint.h"
+#import "Sparrow/SPRectangle.h"
+#import "Sparrow/SPGLTexture.h"
+#import "Sparrow/SPSubTexture.h"
+#import "Sparrow/SPVertexData.h"
 
 // --- c functions ---
 

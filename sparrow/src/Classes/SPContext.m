@@ -9,18 +9,18 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPCache.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPCache.h"
 #import "SPContext_Internal.h"
-#import "SPDisplayObject.h"
-#import "SPFrameBuffer.h"
+#import "Sparrow/SPDisplayObject.h"
+#import "Sparrow/SPFrameBuffer.h"
 #import "SPGLTexture_Internal.h"
-#import "SPMacros.h"
-#import "SPOpenGL.h"
-#import "SPRectangle.h"
-#import "SPRenderTexture.h"
-#import "SPSubTexture.h"
-#import "SPTexture.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPRectangle.h"
+#import "Sparrow/SPRenderTexture.h"
+#import "Sparrow/SPSubTexture.h"
+#import "Sparrow/SPTexture.h"
 
 #import <objc/runtime.h>
 #import <GLKit/GLKit.h>

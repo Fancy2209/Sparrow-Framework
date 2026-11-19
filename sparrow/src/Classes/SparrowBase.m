@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowBase.h"
+#import "Sparrow/SparrowBase.h"
 
 NSString *const SPExceptionAbstractClass        = @"SPExceptionAbstractClass";
 NSString *const SPExceptionAbstractMethod       = @"SPExceptionAbstractMethod";

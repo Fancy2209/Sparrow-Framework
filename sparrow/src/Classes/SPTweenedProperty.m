@@ -9,8 +9,8 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPMacros.h"
-#import "SPTweenedProperty.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPTweenedProperty.h"
 
 #import <objc/runtime.h>
 #import <objc/message.h>

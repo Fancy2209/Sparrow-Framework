@@ -9,14 +9,14 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPBlurFilter.h"
-#import "SPMatrix.h"
-#import "SPMatrix3D.h"
-#import "SPNSExtensions.h"
-#import "SPOpenGL.h"
-#import "SPProgram.h"
-#import "SPTexture.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPBlurFilter.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPMatrix3D.h"
+#import "Sparrow/SPNSExtensions.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPProgram.h"
+#import "Sparrow/SPTexture.h"
 
 #pragma mark - SPBlurProgram
 

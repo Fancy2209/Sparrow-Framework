@@ -9,13 +9,13 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPDisplayObject.h"
-#import "SPDisplayObjectContainer.h"
+#import "Sparrow/SPDisplayObject.h"
+#import "Sparrow/SPDisplayObjectContainer.h"
 #import "SPEventDispatcher_Internal.h"
-#import "SPEventListener.h"
+#import "Sparrow/SPEventListener.h"
 #import "SPEvent_Internal.h"
-#import "SPMacros.h"
-#import "SPNSExtensions.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPNSExtensions.h"
 
 // --- class implementation ------------------------------------------------------------------------
 

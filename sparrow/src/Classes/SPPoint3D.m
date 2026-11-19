@@ -9,9 +9,9 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPMacros.h"
-#import "SPPoint.h"
-#import "SPPoint3D.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPPoint.h"
+#import "Sparrow/SPPoint3D.h"
 
 @implementation SPPoint3D
 

@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPTouch.h"
+#import "Sparrow/SPTouch.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

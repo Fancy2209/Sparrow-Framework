@@ -9,9 +9,9 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPDisplayObject.h"
-#import "SPMacros.h"
-#import "SPNSExtensions.h"
+#import "Sparrow/SPDisplayObject.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPNSExtensions.h"
 
 #import <zlib.h>
 #import <sys/sysctl.h>

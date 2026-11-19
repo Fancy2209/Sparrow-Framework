@@ -9,20 +9,20 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPBlendMode.h"
-#import "SPContext.h"
-#import "SPGLTexture.h"
-#import "SPFragmentFilter.h"
-#import "SPMacros.h"
-#import "SPMatrix.h"
-#import "SPMatrix3D.h"
-#import "SPOpenGL.h"
-#import "SPRectangle.h"
-#import "SPRenderSupport.h"
-#import "SPRenderTexture.h"
-#import "SPStage.h"
-#import "SPUtils.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPBlendMode.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPGLTexture.h"
+#import "Sparrow/SPFragmentFilter.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPMatrix3D.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPRectangle.h"
+#import "Sparrow/SPRenderSupport.h"
+#import "Sparrow/SPRenderTexture.h"
+#import "Sparrow/SPStage.h"
+#import "Sparrow/SPUtils.h"
 
 @implementation SPRenderTexture
 {

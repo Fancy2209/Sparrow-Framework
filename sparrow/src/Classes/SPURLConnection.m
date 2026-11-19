@@ -9,8 +9,8 @@
 //	in accordance with the terms of the accompanying license agreement.
 //
 
-#import "SPMacros.h"
-#import "SPURLConnection.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPURLConnection.h"
 
 #if !TARGET_OS_TV
 

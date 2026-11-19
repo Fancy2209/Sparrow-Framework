@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPOpenGL.h"
+#import "Sparrow/SPOpenGL.h"
 
 const char* sglGetErrorString(uint error)
 {

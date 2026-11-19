@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPTestCase.h"
+#import "Sparrow/SPTestCase.h"
 
 @interface SPStageTest : SPTestCase 
 

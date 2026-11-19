@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPViewController.h"
+#import "Sparrow/SPViewController.h"
 
 @interface SPViewController (Internal)
 

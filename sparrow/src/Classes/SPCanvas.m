@@ -9,19 +9,19 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPCanvas.h"
-#import "SPContext.h"
-#import "SPIndexData.h"
-#import "SPMatrix.h"
-#import "SPMatrix3D.h"
-#import "SPOpenGL.h"
-#import "SPPoint.h"
-#import "SPPolygon.h"
-#import "SPProgram.h"
-#import "SPRenderSupport.h"
-#import "SPVertexData.h"
-#import "SPViewController.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPCanvas.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPIndexData.h"
+#import "Sparrow/SPMatrix.h"
+#import "Sparrow/SPMatrix3D.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPPoint.h"
+#import "Sparrow/SPPolygon.h"
+#import "Sparrow/SPProgram.h"
+#import "Sparrow/SPRenderSupport.h"
+#import "Sparrow/SPVertexData.h"
+#import "Sparrow/SPViewController.h"
 
 #define PROGRAM_NAME @"Shape"
 

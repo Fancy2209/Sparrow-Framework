@@ -9,13 +9,13 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
+#import "Sparrow/SparrowClass.h"
 #import "SPContext_Internal.h"
 #import "SPGLTexture_Internal.h"
-#import "SPMacros.h"
-#import "SPOpenGL.h"
-#import "SPPVRData.h"
-#import "SPRectangle.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPPVRData.h"
+#import "Sparrow/SPRectangle.h"
 
 @implementation SPGLTexture
 {

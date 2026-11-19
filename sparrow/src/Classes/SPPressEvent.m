@@ -9,8 +9,8 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPPress.h"
-#import "SPPressEvent.h"
+#import "Sparrow/SPPress.h"
+#import "Sparrow/SPPressEvent.h"
 
 @implementation SPPressEvent
 

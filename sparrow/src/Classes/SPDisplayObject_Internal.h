@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPDisplayObject.h"
+#import "Sparrow/SPDisplayObject.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -9,7 +9,7 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SPPress.h"
+#import "Sparrow/SPPress.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

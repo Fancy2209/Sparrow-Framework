@@ -9,21 +9,21 @@
 //  it under the terms of the Simplified BSD License.
 //
 
-#import "SparrowClass.h"
-#import "SPGLTexture.h"
-#import "SPContext.h"
-#import "SPMacros.h"
-#import "SPNSExtensions.h"
-#import "SPOpenGL.h"
-#import "SPPVRData.h"
-#import "SPRectangle.h"
-#import "SPStage.h"
-#import "SPSubTexture.h"
-#import "SPTexture.h"
-#import "SPCache.h"
-#import "SPURLConnection.h"
-#import "SPUtils.h"
-#import "SPVertexData.h"
+#import "Sparrow/SparrowClass.h"
+#import "Sparrow/SPGLTexture.h"
+#import "Sparrow/SPContext.h"
+#import "Sparrow/SPMacros.h"
+#import "Sparrow/SPNSExtensions.h"
+#import "Sparrow/SPOpenGL.h"
+#import "Sparrow/SPPVRData.h"
+#import "Sparrow/SPRectangle.h"
+#import "Sparrow/SPStage.h"
+#import "Sparrow/SPSubTexture.h"
+#import "Sparrow/SPTexture.h"
+#import "Sparrow/SPCache.h"
+#import "Sparrow/SPURLConnection.h"
+#import "Sparrow/SPUtils.h"
+#import "Sparrow/SPVertexData.h"
 
 #pragma mark - SPTexture
 
